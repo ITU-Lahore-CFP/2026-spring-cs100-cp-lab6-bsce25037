@@ -1,11 +1,10 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
-#include<iostream>
-using namespace std;
+// Task A – Sum of Squares
+int sumOfSquares(int n);
 
-
-int sumOfSquares(int);
-int findFactorial(int);
+// Task B – Factorial
+long int findFactorial(int n);
 
 #endif
